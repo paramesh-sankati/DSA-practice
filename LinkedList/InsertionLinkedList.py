@@ -21,6 +21,8 @@ class SinglyLinkedList:
         nb=Node(data)  #new node 
         nb.next=self.head    #nb.next points to self.head i.e n1
         sll.head=nb
+    def insert_at_end(self,data):
+        pass
 
 n1=Node(8)
 n2=Node(10)
