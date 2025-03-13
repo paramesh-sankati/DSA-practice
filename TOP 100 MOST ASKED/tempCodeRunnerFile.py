@@ -1,2 +1,2 @@
-res.append(m)
-    print(res)
+if i==j:
+            print(lst[i][j])
