@@ -11,4 +11,4 @@ for i in range(n,0,-1):
             temp=temp-c
         c=c+1
     t+=i
-    print()    
+    print()
