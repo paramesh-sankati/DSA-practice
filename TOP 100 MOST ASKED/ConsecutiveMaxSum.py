@@ -13,6 +13,16 @@ for i in range(len(lst)):
             res=lst[i:]+lst[:(k+i)-len(lst)]
 
 print(max_sum)
-print(res) 
+print(res)
+
+
+
+
+ 
+
+
+
+
+
 
         
