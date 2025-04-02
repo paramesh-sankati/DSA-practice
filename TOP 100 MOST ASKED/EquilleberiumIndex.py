@@ -5,6 +5,7 @@ for i in range(1,len(arr)-1):
     rs=sum(arr[i+1:])
     if ls==rs:
         print(i)
+        
 
 
 
