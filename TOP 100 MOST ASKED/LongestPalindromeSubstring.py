@@ -8,6 +8,10 @@ for i in range(len(s)):
             if len(t)>long_sub:
                 ans=t
                 long_sub=len(t)
+            elif len(t)==long_sub:
+                ans=ans+" "+t
+                long_sub=len(t)
+        
 print(ans)
 
 
