@@ -1,3 +1,2 @@
-    if len(lst)==len(set(lst)):
-                if len(lst)>max_length:
-                        max_length=len(lst)
+print(703//26)
+print(chr(703%26+64))
