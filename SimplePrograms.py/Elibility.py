@@ -13,8 +13,10 @@ def isEligible(arr):
             return False
     else:
         return False
-        
+    
+#Error
 
 print(isEligible([1,9,0,7,2,0,0,3]))
+
 
 
