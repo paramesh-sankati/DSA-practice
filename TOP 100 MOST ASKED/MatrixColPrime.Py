@@ -130,8 +130,7 @@ def matrix_col(r,c,lst):
         for j in range(c):
             s=0
             for k in range(r):
-                s=s+lst[k][j]
-            
+                s=s+lst[k][j] 
             if isPrime(s):
                 print(lst[i][j],end=' ')
             else:
