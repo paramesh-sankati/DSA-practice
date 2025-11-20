@@ -1,2 +1,1 @@
-else:
-        return True
+print('abca'.count('a'))
